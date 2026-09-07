@@ -52,8 +52,6 @@ A more detailed description of the method can be found in [the preprint](https:/
 
 <!-- ## How to Use -->
 
-## Link to Datasets
-
 ## Citation
 
 If you find this work useful, please cite:
