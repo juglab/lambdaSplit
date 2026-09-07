@@ -60,7 +60,7 @@ If you find this work useful, please cite:
 ```bibtex
 @inproceedings{carrara2026lambdasplit,
   title     = {λSplit: Self-Supervised Content-Aware Spectral Unmixing for Fluorescence Microscopy},
-  author    = {Carrara, Federico and Lambert, Talley and Seifi, Mehdi and Florian Jug},
+  author    = {Carrara, Federico and Lambert, Talley and Seifi, Mehdi and Jug, Florian},
   booktitle = {European Conference on Computer Vision (ECCV)},
   year      = {2026}
 }
