@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://arxiv.org/abs/2603.23647"><img src="https://img.shields.io/badge/arXiv-2603.23647-b31b1b.svg?style=flat&logo=arxiv&logoColor=white" alt="arXiv"></a>
-  <a href="link-to-poster.pdf"><img src="https://img.shields.io/badge/Poster-PDF-blue.svg?style=flat" alt="Poster"></a>
+  <a href="artworks/lambdaSplit_poster_landscape_ECCV2026.pdf"><img src="https://img.shields.io/badge/Poster-PDF-blue.svg?style=flat" alt="Poster"></a>
   <a href="https://www.youtube.com/watch?v=04zUPo4hcE4"><img src="https://img.shields.io/badge/Video-YouTube-FF0000.svg?style=flat&logo=youtube&logoColor=white" alt="Video"></a>
   <a href="https://eccv.ecva.net/virtual/2026/poster/4844"><img src="https://img.shields.io/badge/ECCV-2026-4b44ce.svg?style=flat" alt="ECCV 2026">
 </p>
