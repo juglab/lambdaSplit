@@ -41,10 +41,11 @@ A more detailed description of the method can be found in [the preprint](https:/
 > the methods described in this repository or in the accompanying paper is granted,
 > expressed or implied.
 >
-> We are not accepting contributions at this time. A contributor licence agreement will
+> We are not accepting contributions at this time. A contributor license agreement will
 > be in place before the code is released.
 >
 > For licensing inquiries, contact federico.carrara@fht.org and florian.jug@fht.org.
+> >
 > To be notified when the code is released, click **Watch** above and select
 > **Custom → Releases**.
 
