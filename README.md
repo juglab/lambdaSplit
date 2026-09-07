@@ -15,11 +15,15 @@
 
 # λSplit: Self-Supervised Content-Aware Spectral Unmixing for Fluorescence Microscopy
 
-**Federico Carrara**<sup>1,2</sup>, **Talley Lambert**<sup>1,3</sup>, **Mehdi Seifi**<sup>1</sup>, **Florian Jug**<sup>1</sup>
+<p align="center">
+  <b>Federico Carrara</b><sup>1,2</sup>, <b>Talley Lambert</b><sup>1,3</sup>, <b>Mehdi Seifi</b><sup>1</sup>, <b>Florian Jug</b><sup>1</sup>
+</p>
 
-<sup>1</sup> Fondazione Human Technopole, Milan, Italy  
-<sup>2</sup> Università Campus Bio-Medico, Rome, Italy  
-<sup>3</sup> Harvard Medical School, Boston, US
+<p align="center">
+  <sup>1</sup> <i>Fondazione Human Technopole, Milan, Italy</i>  
+  <sup>2</sup> <i>Università Campus Bio-Medico, Rome, Italy</i>
+  <sup>3</sup> <i>Harvard Medical School, Boston, US</i>
+</p>
 
 **λSplit** is a self-supervised method for spectral unmixing in fluorescence microscopy. 
 It combines a Ladder VAE with a physics-based Spectral Mixer that encodes the image-formation model, enabling it to separate overlapping fluorophore emissions without ground-truth supervision.
