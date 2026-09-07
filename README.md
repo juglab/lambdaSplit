@@ -44,6 +44,13 @@ A more detailed description of the method can be found in [the preprint](https:/
 
 ## Citation
 
+If you find this work useful, please cite:
+
 ```bibtex
-{}
+@inproceedings{carrara2026lambdasplit,
+  title     = {λSplit: Self-Supervised Content-Aware Spectral Unmixing for Fluorescence Microscopy},
+  author    = {Carrara, Federico and Lambert, Talley and Seifi, Mehdi and Florian Jug},
+  booktitle = {European Conference on Computer Vision (ECCV)},
+  year      = {2026}
+}
 ```
