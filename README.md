@@ -22,10 +22,23 @@ A more detailed description of the method can be found in [the preprint](https:/
   <img src="artworks/lambdasplit_architecture.svg" width="1000">
 </div>
 
+> [!WARNING]
+> **Code availability.** The code for λSplit is not yet publicly available.
+>
+> λSplit is the subject of pending patent applications held by Fondazione Human Technopole.
+> We are finalizing the licensing terms for the public release, which we intend to make
+> under a strong copyleft license, alongside a separate commercial licensing track for
+> uses falling outside those terms.
+>
+> We expect to release the code once these terms are in place. Until then, no license to
+> the methods described in this repository or in the accompanying paper is granted,
+> expressed or implied.
+>
+> For licensing inquiries, contact federico.carrara@fht.org and florian.jug@fht.org.
 
-## Installation
+<!-- ## Installation -->
 
-## How to use
+<!-- ## How to Use -->
 
 ## Link to Datasets
 
