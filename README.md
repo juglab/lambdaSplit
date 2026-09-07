@@ -6,15 +6,20 @@
 </div>
 
 ---
-
-# λSplit: Self-Supervised Content-Aware Spectral Unmixing for Fluorescence Microscopy
-
 <p align="left">
   <a href="https://arxiv.org/abs/2603.23647"><img src="https://img.shields.io/badge/arXiv-2603.23647-b31b1b.svg?style=flat&logo=arxiv&logoColor=white" alt="arXiv"></a>
   <a href="artworks/lambdaSplit_poster_landscape_ECCV2026.pdf"><img src="https://img.shields.io/badge/Poster-PDF-blue.svg?style=flat" alt="Poster"></a>
   <a href="https://www.youtube.com/watch?v=04zUPo4hcE4"><img src="https://img.shields.io/badge/Video-YouTube-FF0000.svg?style=flat&logo=youtube&logoColor=white" alt="Video"></a>
   <a href="https://eccv.ecva.net/virtual/2026/poster/4844"><img src="https://img.shields.io/badge/ECCV-2026-4b44ce.svg?style=flat" alt="ECCV 2026">
 </p>
+
+# λSplit: Self-Supervised Content-Aware Spectral Unmixing for Fluorescence Microscopy
+
+**Federico Carrara**<sup>1,2</sup>, **Talley Lambert**<sup>1,3</sup>, **Mehdi Seifi**<sup>1</sup>, **Florian Jug**<sup>1</sup>
+
+<sup>1</sup> Fondazione Human Technopole, Milan, Italy  
+<sup>2</sup> Università Campus Bio-Medico, Rome, Italy  
+<sup>3</sup> Harvard Medical School, Boston, US
 
 **λSplit** is a self-supervised method for spectral unmixing in fluorescence microscopy. 
 It combines a Ladder VAE with a physics-based Spectral Mixer that encodes the image-formation model, enabling it to separate overlapping fluorophore emissions without ground-truth supervision.
@@ -29,7 +34,7 @@ A more detailed description of the method can be found in [the preprint](https:/
   <img src="artworks/lambdasplit_architecture.svg" width="1000">
 </div>
 
-> [!WARNING]
+> [!IMPORTANT]
 > **Code availability.** The code for λSplit is not yet publicly available.
 >
 > λSplit is the subject of pending patent applications held by Fondazione Human Technopole.
@@ -39,7 +44,7 @@ A more detailed description of the method can be found in [the preprint](https:/
 >
 > We expect to release the code once these terms are in place. Until then, no license to
 > the methods described in this repository or in the accompanying paper is granted,
-> expressed or implied.
+> express or implied.
 >
 > We are not accepting contributions at this time. A contributor license agreement will
 > be in place before the code is released.
